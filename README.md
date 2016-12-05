@@ -10,7 +10,12 @@ A Service in second plan is used to receive the updates of the position and to s
 ## Usage
 In order to compile and use this code it is necessary to include a Google Map ApiKey in the Strings resource file of the application. This Api Key can be obtained through the Google Developer Console.
 
+## ToDo
+- Add a database to save routes
+- Create new option for pause traking
+- Show a list/detail of saved routes
 
+Any feedback is welcome :)
 
 ## License
 
